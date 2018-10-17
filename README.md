@@ -27,4 +27,4 @@ There are many ways to manipulate array integers.
 
 ## Resources
 
-- Array Integers
+- Arrays
