@@ -1,6 +1,7 @@
 array_of_integers = *0...50
 
 def all_odds(array)
+  array.odd
   # return all odd numbers from the input array
 end
 
