@@ -1,7 +1,7 @@
 array_of_integers = *0...50
 
 def all_odds(array)
-  array_of_integers.odd
+  array_of_integers.map{ |n| n if n % 2 == 0 }.compact
   # return all odd numbers from the input array
 end
 
